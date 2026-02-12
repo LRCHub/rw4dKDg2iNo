@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Judas",
+  "base_artist": "Lady Gaga",
+  "createdAt": "2026-02-12T13:21:57.666618Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Judas",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/01_Judas_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Judas (R3HAB Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/02_Judas_(R3HAB_Remix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Judas (DJ White Shadow Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/03_Judas_(DJ_White_Shadow_Remix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Judas",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/04_Judas_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Brother Judas",
+      "artist": "Civil War",
+      "has_synced": true,
+      "path": "select/05_Brother_Judas_Civil_War.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Judas",
+      "artist": "Helloween",
+      "has_synced": false,
+      "path": "select/06_Judas_Helloween.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Judas Be My Guide",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/07_Judas_Be_My_Guide_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Judas Priest",
+      "artist": "Anthrax",
+      "has_synced": false,
+      "path": "select/08_Judas_Priest_Anthrax.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Judas Rising",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/09_Judas_Rising_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Judas My Heart",
+      "artist": "Belly",
+      "has_synced": true,
+      "path": "select/10_Judas_My_Heart_Belly.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Judas",
+      "artist": "BANKS",
+      "has_synced": true,
+      "path": "select/11_Judas_BANKS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Judas",
+      "artist": "Piano Magic",
+      "has_synced": false,
+      "path": "select/12_Judas_Piano_Magic.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Judas",
+      "artist": "Cage the Elephant",
+      "has_synced": true,
+      "path": "select/13_Judas_Cage_the_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Judas",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/14_Judas_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Judas' Death",
+      "artist": "Tim Rice feat. Andrew Lloyd Webber, Carl Anderson, Bob Bingham, Kurt Yaghjian & André Previn",
+      "has_synced": false,
+      "path": "select/15_Judas'_Death_Tim_Rice_feat._Andrew_Lloyd_Webber,_Carl_Anderson,_Bob_Bingham,_Kurt_Yaghjian_&_.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Judas’ Death",
+      "artist": "Victor Brox",
+      "has_synced": false,
+      "path": "select/16_Judas’_Death_Victor_Brox.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Judas My Brother",
+      "artist": "Bad Company",
+      "has_synced": true,
+      "path": "select/17_Judas_My_Brother_Bad_Company.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Judas",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/18_Judas_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Judas",
+      "artist": "ICEHOUSE",
+      "has_synced": false,
+      "path": "select/19_Judas_ICEHOUSE.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Judas - Demo Version",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/20_Judas_-_Demo_Version_Depeche_Mode.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Judas",
+      "artist": "Lady GaGa",
+      "has_synced": false,
+      "path": "select/pl_01_Judas_Lady_GaGa.txt"
+    }
+  ]
+}
